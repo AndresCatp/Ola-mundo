@@ -1,2 +1,4 @@
-# Ola-mundo
+# Olá, mundo
  Primeiro repositório do curso de GitHub
+
+Repositório criado durante uma aula do Youtube 
